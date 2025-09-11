@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Gamer",
+      "price": 4500,
+      "description": "Notebook potente para jogos e tarefas pesadas."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 2500,
+      "description": "Smartphone com câmera de alta resolução e desempenho rápido."
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 300,
+      "description": "Headphones com cancelamento de ruído e som de alta qualidade."
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 800,
+      "description": "Smartwatch com monitoramento de saúde e notificações inteligentes."
+    },
+    {
+      "id": 5,
+      "name": "2",
+      "description": "2",
+      "price": "2"
+    },
+    {
+      "id": 6,
+      "name": "Matheus",
+      "description": "Lindo",
+      "price": "40,00"
+    },
+    {
+      "id": 7,
+      "name": "Laurinha",
+      "description": "Melhor Representante",
+      "price": "1000"
+    }
+  ]
+}
