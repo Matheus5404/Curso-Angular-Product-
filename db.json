@@ -2,9 +2,9 @@
   "products": [
     {
       "id": 1,
-      "name": "Notebook Gamer",
-      "price": 4500,
-      "description": "Notebook potente para jogos e tarefas pesadas."
+      "name": "Notebook Gamer Dell",
+      "description": "Notebook potente para jogos e tarefas pesadas.",
+      "price": 4500
     },
     {
       "id": 2,
@@ -23,24 +23,6 @@
       "name": "Smartwatch",
       "price": 800,
       "description": "Smartwatch com monitoramento de saúde e notificações inteligentes."
-    },
-    {
-      "id": 5,
-      "name": "2",
-      "description": "2",
-      "price": "2"
-    },
-    {
-      "id": 6,
-      "name": "Matheus",
-      "description": "Lindo",
-      "price": "40,00"
-    },
-    {
-      "id": 7,
-      "name": "Laurinha",
-      "description": "Melhor Representante",
-      "price": "1000"
     }
   ]
 }
